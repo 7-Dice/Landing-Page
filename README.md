@@ -1,2 +1,2 @@
 # Landing-Page
-It is a useful supplements for you!(This is fiction)
+It is a useful supplement for you!(This is fiction)
