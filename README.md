@@ -1,2 +1,2 @@
 # Landing-Page
-It is a useful supplyment for you!(It's a joke)
+It is a useful supplements for you!(It's a joke)
